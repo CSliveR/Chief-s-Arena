@@ -48,6 +48,7 @@ Partagez les saveurs !
   - Jamaïque
   - Pérou
   - Sénégal
+  - Guinée
   - Philippines
   - Cuba
   - Hongrie
