@@ -20,41 +20,41 @@ Partagez les saveurs !
 - Gastronomie
 - Fast-food
 - Cuisine du monde
-  - Argentine
-  - Corée du Sud
-  - Italie
-  - France
-  - Mexique
-  - Chine
-  - Japon
-  - Inde
-  - Thaïlande
-  - Espagne
-  - États-Unis
-  - Liban
-  - Grèce
-  - Vietnam
-  - Brésil
-  - Turquie
-  - Maroc
-  - Indonésie
-  - Portugal
-  - Russie
-  - Iran
-  - Australie
-  - Royaume-Uni
   - Allemagne
-  - Éthiopie
-  - Jamaïque
-  - Pérou
-  - Sénégal
-  - Guinée
-  - Philippines
+  - Argentine
+  - Australie
+  - Brésil
+  - Chine
+  - Corée du Sud
   - Cuba
+  - États-Unis
+  - Espagne
+  - Éthiopie
+  - France
+  - Grèce
+  - Guinée
   - Hongrie
+  - Inde
+  - Indonésie
+  - Iran
+  - Italie
+  - Jamaïque
+  - Japon
+  - Liban
   - Malaisie
+  - Maroc
+  - Mexique
+  - Pérou
+  - Philippines
+  - Portugal
+  - Royaume-Uni
+  - Russie
+  - Sénégal
   - Suède
+  - Thaïlande
   - Tunisie
+  - Turquie
+  - Vietnam
 - Pâtisserie
 - Œnologie
 
