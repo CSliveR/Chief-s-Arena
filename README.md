@@ -68,7 +68,7 @@ Abonnement :
   - Accès à des templates
   - Système de notation des plats
   - Support client prioritaire
-- Version Ultra Premium
+- Version Ultra Premium : 400€/mois
   - Accès à des templates
   - Système de notation des plats
   - Support client prioritaire
