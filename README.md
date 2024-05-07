@@ -55,6 +55,9 @@ Partagez les saveurs !
   - Tunisie
   - Turquie
   - Vietnam
+- Vegan
+- Végétarien
+- Barbecue
 - Pâtisserie
 - Œnologie
 
