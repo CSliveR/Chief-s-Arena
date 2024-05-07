@@ -20,18 +20,56 @@ Partagez les saveurs !
 - Gastronomie
 - Fast-food
 - Cuisine du monde
-  - Italienne
-  - Américaine
-  - Française
-  - Autres à compléter
+  - Argentine
+  - Corée du Sud
+  - Italie
+  - France
+  - Mexique
+  - Chine
+  - Japon
+  - Inde
+  - Thaïlande
+  - Espagne
+  - États-Unis
+  - Liban
+  - Grèce
+  - Vietnam
+  - Brésil
+  - Turquie
+  - Maroc
+  - Indonésie
+  - Portugal
+  - Russie
+  - Iran
+  - Australie
+  - Royaume-Uni
+  - Allemagne
+  - Éthiopie
+  - Jamaïque
+  - Pérou
+  - Sénégal
+  - Philippines
+  - Cuba
+  - Hongrie
+  - Malaisie
+  - Suède
+  - Tunisie
 - Pâtisserie
 - Œnologie
 
 ## Plan d'affaires
 Abonnement :
-- Version standard : €/mois
-- Version plus : €/mois
-  - Accès aux templates
+- Version Standard : 50€/mois
+- Version Plus : 150€/mois
+  - Accès à des templates
+  - Système de notation des plats
+  - Support client prioritaire
+- Version Ultra Premium
+  - Accès à des templates
+  - Système de notation des plats
+  - Support client prioritaire
+  - Possibilité de streamer les évenements
+  - Outils d'analyse des évenements avancés
 
 ## Direction Artistique
 ### Logo
