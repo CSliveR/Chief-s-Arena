@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-16T09:23:15.461Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="-NXWOqHSEX45GfgZyMj9" version="24.4.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-16T09:27:09.208Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="3j9wwa_hZ0HPXtQ3uzbg" version="24.4.2" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
     <mxGraphModel dx="3088" dy="1910" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -108,7 +108,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="GbpuS-4HLD2tTJXpjmer-0" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;Evenement&lt;/code&gt;&lt;/pre&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="-740" y="-850" width="237" height="310" as="geometry" />
+          <mxGeometry x="-640" y="-859" width="237" height="560" as="geometry" />
         </mxCell>
         <mxCell id="GbpuS-4HLD2tTJXpjmer-1" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;- id: String&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
           <mxGeometry y="30" width="237" height="30" as="geometry" />
@@ -136,6 +136,30 @@
         </mxCell>
         <mxCell id="GbpuS-4HLD2tTJXpjmer-9" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;- partenaires: List&amp;lt;Partenaire&amp;gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
           <mxGeometry y="270" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-28" value="&lt;pre&gt;&lt;br&gt;&lt;/pre&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="310" width="237" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-29" value="&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="310" width="237" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-21" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+creerEvenement()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="320" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-22" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+modifierEvenement()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="360" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-23" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+supprimerEvenement()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="400" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-24" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+ajouterParticipant()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="440" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-25" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+ajouterPartenaire()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="480" width="237" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="GbpuS-4HLD2tTJXpjmer-26" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+calculerProportions()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="GbpuS-4HLD2tTJXpjmer-0">
+          <mxGeometry y="520" width="237" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
