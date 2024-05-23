@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T09:42:12.084Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="jtrLl_-uwSzFl2-90mtG" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:52:05.261Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="FwaHViNu5GDsmA1SGzjc" version="24.4.6" type="github">
   <diagram name="Page-1" id="3CmJ6QDJ6GsziTArALSa">
     <mxGraphModel dx="1941" dy="2927" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -123,7 +123,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-30" value="Jury" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-245" y="-1300" width="130" height="90" as="geometry" />
+          <mxGeometry x="-245" y="-1300" width="130" height="160" as="geometry" />
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-31" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;- numTel: String&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="HZnkczQktBUiqPXWTx1L-30" vertex="1">
           <mxGeometry y="30" width="130" height="30" as="geometry" />
@@ -133,6 +133,15 @@
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-33" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;- note: int&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" parent="HZnkczQktBUiqPXWTx1L-30" vertex="1">
           <mxGeometry y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4oL7smy7SzwTK21PN7AT-18" value="" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-30">
+          <mxGeometry y="90" width="130" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="4oL7smy7SzwTK21PN7AT-19" value="&lt;div&gt;+ setNote()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-30">
+          <mxGeometry y="100" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="4oL7smy7SzwTK21PN7AT-20" value="&lt;div&gt;+ getNote()&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-30">
+          <mxGeometry y="130" width="130" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.446;exitY=1.019;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HZnkczQktBUiqPXWTx1L-61" target="HZnkczQktBUiqPXWTx1L-18" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -201,7 +210,7 @@
           <mxGeometry x="-443" y="-990" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-53" value="&lt;div&gt;nbJury est le nombre de personnes dans le jury&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="-1190" width="290" height="30" as="geometry" />
+          <mxGeometry x="-280" y="-1080" width="290" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-54" value="" style="endArrow=classic;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0.008;exitY=0.033;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="HZnkczQktBUiqPXWTx1L-33" target="HZnkczQktBUiqPXWTx1L-26" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
