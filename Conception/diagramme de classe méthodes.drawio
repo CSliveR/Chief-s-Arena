@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-05-23T09:05:31.551Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="69A2jjGQT02HTilRVrot" version="24.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-23T09:08:57.326Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:122.0) Gecko/20100101 Firefox/122.0" etag="_sMF3IPUo5gVN7WvhWyn" version="24.4.6" type="github">
   <diagram name="Page-1" id="3CmJ6QDJ6GsziTArALSa">
     <mxGraphModel dx="2138" dy="3031" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="HZnkczQktBUiqPXWTx1L-1" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;Evenement&lt;/code&gt;&lt;/pre&gt;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-321.5" y="-2110" width="250" height="480" as="geometry" />
+          <mxGeometry x="-360" y="-2160" width="250" height="480" as="geometry" />
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-2" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;- id: int&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-1">
           <mxGeometry y="30" width="250" height="30" as="geometry" />
@@ -43,10 +43,10 @@
         <mxCell id="HZnkczQktBUiqPXWTx1L-57" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+modifierEvenement()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-1">
           <mxGeometry y="360" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HZnkczQktBUiqPXWTx1L-60" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+modifierEvenement()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-1">
+        <mxCell id="HZnkczQktBUiqPXWTx1L-60" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+ajouterParticipant()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-1">
           <mxGeometry y="400" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HZnkczQktBUiqPXWTx1L-61" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+modifierEvenement()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-1">
+        <mxCell id="HZnkczQktBUiqPXWTx1L-61" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;+ajouterPartenaire()&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-1">
           <mxGeometry y="440" width="250" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HZnkczQktBUiqPXWTx1L-11" value="&lt;pre&gt;&lt;br&gt;&lt;/pre&gt;" style="text;strokeColor=default;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-1">
@@ -125,7 +125,7 @@
         <mxCell id="HZnkczQktBUiqPXWTx1L-33" value="&lt;pre&gt;&lt;code class=&quot;!whitespace-pre hljs language-plaintext&quot;&gt;- note: int&lt;br&gt;&lt;/code&gt;&lt;/pre&gt;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="HZnkczQktBUiqPXWTx1L-30">
           <mxGeometry y="60" width="130" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="HZnkczQktBUiqPXWTx1L-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="HZnkczQktBUiqPXWTx1L-18">
+        <mxCell id="HZnkczQktBUiqPXWTx1L-34" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;exitX=0.446;exitY=1.019;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="HZnkczQktBUiqPXWTx1L-61" target="HZnkczQktBUiqPXWTx1L-18">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-249" y="-1650" as="sourcePoint" />
             <mxPoint x="-300" y="-890" as="targetPoint" />
