@@ -1,13 +1,16 @@
 Planification de l'organisation d'un colloque scientifique
 ## 1. Identification des tâches et de leurs successeurs
 
-| Command | Description |
-| --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| Tâche | Durée | Successeurs |
+| --- | --- | --- |
+| A [Constitution du comité d'organisation] | 1 semaine | --- |
+| B [Sélection de l'hôtel] | 3 semaine | A |
+| C [Choix des menus et des repas] | 1 semaine | B |
+| D [Fixation de la première réunion du comité de programme] |--- | B |
+| E [Détermination du prix payé par les conférenciers] | 0 semaine | C |
 
 
-Comité d'organisation (Logistique)
+# Comité d'organisation (Logistique)
 
 Constitution du comité d'organisation (1 semaine)
 
@@ -21,6 +24,7 @@ Successeur : Détermination du prix payé par les conférenciers
 Choix du lieu de banquet (2 semaines)
 
 Successeur : Fixation de la deuxième réunion du comité de programme, Détermination du prix payé par les conférenciers
+
 Détermination du prix payé par les conférenciers (0 semaine, dépend des tâches précédentes)
 
 Successeur : Appel à communications
