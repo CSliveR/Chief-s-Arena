@@ -51,7 +51,8 @@ Successeur : Fixation du programme final
 ## 2. Graphe équivalent au tableau des tâches
 Voici une représentation des tâches sous forme de graphe :
 
-A1[Constitution du comité d'organisation] --> B1[Sélection de l'hôtel]
+graph TD
+  A1[Constitution du comité d'organisation] --> B1[Sélection de l'hôtel]
   B1 --> C1[Choix des menus et des repas]
   B1 --> D1[Fixation de la première réunion du comité de programme]
   C1 --> E1[Détermination du prix payé par les conférenciers]
@@ -68,6 +69,7 @@ A1[Constitution du comité d'organisation] --> B1[Sélection de l'hôtel]
   J1 --> K1[Impression des Proceedings]
   K1 --> L1[Réception des Proceedings]
   L1 --> M1[Début du colloque]
+
 
 
 
