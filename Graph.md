@@ -3,21 +3,21 @@ Planification de l'organisation d'un colloque scientifique
 
 | Tâche | Durée | Successeurs |
 | --- | --- | --- |
-| A [Constitution du comité d'organisation] | 1 semaine | --- |
-| B [Sélection de l'hôtel] | 3 semaine | A |
+| A [Constitution du comité d'organisation] | 1 semaine | B |
+| B [Sélection de l'hôtel] | 3 semaine | C D I |
 | C [Choix des menus et des repas] | 1 semaine | E |
-| D [Fixation de la première réunion du comité de programme] |--- | B |
-| E [Détermination du prix payé par les conférenciers] | 0 semaine | C |
-| F [Constitution du comité de programme] | ---- | D |
-| G [Première réunion du comité de programme] | 0 semaine | F, E |
-| H [Appel à communications] | 8 semaine | G |
-| I [Choix du lieu de banquet] | 2 semaine | B |
-| J [Fixation de la deuxième réunion du comité de programme] | -------- | I |
+| D [Fixation de la première réunion du comité de programme] |--- | F |
+| E [Détermination du prix payé par les conférenciers] | 0 semaine | G |
+| F [Constitution du comité de programme] | 3 semaine | G |
+| G [Première réunion du comité de programme] | 0 semaine | H |
+| H [Appel à communications] | 8 semaine | K |
+| I [Choix du lieu de banquet] | 2 semaine | J |
+| J [Fixation de la deuxième réunion du comité de programme] | -------- | K |
 | K [Sélection des articles] | 8 semaine | J, H |
-| L [Homogénéisation des articles] | 4 semaine | K |
-| M [Impression des Proceedings] | 6 semaine | L |
-| N [Réception des Proceedings] | 0 semaine | M |
-| O [Début du colloque] | ------ | N |
+| L [Homogénéisation des articles] | 4 semaine | M |
+| M [Impression des Proceedings] | 6 semaine | N |
+| N [Réception des Proceedings] | 0 semaine | O |
+| O [Début du colloque] | ------ | ----- |
 
 
 
