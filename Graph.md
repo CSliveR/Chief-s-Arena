@@ -7,7 +7,7 @@ Planification de l'organisation d'un colloque scientifique
 | B [Sélection de l'hôtel] | 3 semaine | C D |
 | C [Choix des menus et les repas] | 1 semaine | E |
 | D [Fixation de la première réunion du comité de programme] |--- | F |
-| E [Détermination du prix payé par les conférenciers] | 0 semaine | G |
+| E [Détermination du prix payé par les conférenciers] | 0 semaine | H |
 | F [Constitution du comité de programme] | 3 semaine | G |
 | G [Première réunion du comité de programme] | 0 semaine | H |
 | H [Appel à communications] | 8 semaine | K |
