@@ -1,5 +1,12 @@
 Planification de l'organisation d'un colloque scientifique
 ## 1. Identification des tâches et de leurs successeurs
+
+| Command | Description |
+| --- | --- |
+| git status | List all new or modified files |
+| git diff | Show file differences that haven't been staged |
+
+
 Comité d'organisation (Logistique)
 
 Constitution du comité d'organisation (1 semaine)
