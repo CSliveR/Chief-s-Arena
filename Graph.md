@@ -24,39 +24,7 @@ Planification de l'organisation d'un colloque scientifique
 ## 2. Graphe équivalent au tableau des tâches
 Voici une représentation des tâches sous forme de graphe :
 
-graph TD
-  A1[Constitution du comité d'organisation] --> B1[Sélection de l'hôtel]
-  
-  B1 --> C1[Choix des menus et des repas]
-  
-  B1 --> D1[Fixation de la première réunion du comité de programme]
-  
-  C1 --> E1[Détermination du prix payé par les conférenciers]
-  
-  D1 --> A2[Constitution du comité de programme]
-
-  A2 --> B2[Première réunion du comité de programme]
-  
-  E1 --> B2
-  
-  B2 --> F1[Appel à communications]
-  
-  B1 --> G1[Choix du lieu de banquet]
-  
-  G1 --> H1[Fixation de la deuxième réunion du comité de programme]
-  
-  H1 --> I1[Sélection des articles]
-  
-  F1 --> I1
-  
-  I1 --> J1[Homogénéisation des articles]
-  
-  J1 --> K1[Impression des Proceedings]
-  
-  K1 --> L1[Réception des Proceedings]
-  
-  L1 --> M1[Début du colloque]
-
+Graph a faire !
 
 
 ## 3. Date de début de l'organisation
