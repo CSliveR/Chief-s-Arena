@@ -12,55 +12,13 @@ Planification de l'organisation d'un colloque scientifique
 | G [Première réunion du comité de programme] | 0 semaine | F, E |
 | H [Appel à communications] | 8 semaine | G |
 | I [Choix du lieu de banquet] | 2 semaine | B |
+| J [Fixation de la deuxième réunion du comité de programme] | -------- | I |
+| K [Sélection des articles] | 8 semaine | J, H |
+| L [Homogénéisation des articles] | 4 semaine | K |
+| M [Impression des Proceedings] | 6 semaine | L |
+| N [Réception des Proceedings] | 0 semaine | M |
+| O [Début du colloque] | ------ | N |
 
-
-# Comité d'organisation (Logistique)
-
-Constitution du comité d'organisation (1 semaine)
-
-Successeur : Sélection de l'hôtel
-Sélection de l'hôtel (3 semaines)
-
-Successeur : Choix des menus et des repas, Fixation de la première réunion du comité de programme
-Choix des menus et des repas (1 semaine)
-
-Successeur : Détermination du prix payé par les conférenciers
-Choix du lieu de banquet (2 semaines)
-
-Successeur : Fixation de la deuxième réunion du comité de programme, Détermination du prix payé par les conférenciers
-
-Détermination du prix payé par les conférenciers (0 semaine, dépend des tâches précédentes)
-
-Successeur : Appel à communications
-Appel à communications (8 semaines)
-
-Successeur : Réception des contributions
-Réception des contributions (8 semaines)
-
-Successeur : Sélection des articles
-Sélection des articles (8 semaines)
-
-Successeur : Fixation de la deuxième réunion du comité de programme
-Homogénéisation des articles (4 semaines)
-
-Successeur : Impression des Proceedings
-Impression des Proceedings (6 semaines)
-
-Successeur : Réception des Proceedings
-Réception des Proceedings (0 semaine, dépend de l'impression)
-
-Successeur : Début du colloque
-Comité de programme (Scientifique)
-
-Constitution du comité de programme (3 semaines)
-
-Successeur : Première réunion du comité de programme
-Première réunion du comité de programme (0 semaine)
-
-Successeur : Appel à communications
-Deuxième réunion du comité de programme (0 semaine)
-
-Successeur : Fixation du programme final
 
 
 ## 2. Graphe équivalent au tableau des tâches
