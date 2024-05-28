@@ -48,7 +48,7 @@ Deuxième réunion du comité de programme (0 semaine)
 Successeur : Fixation du programme final
 
 
-2. Graphe équivalent au tableau des tâches
+## 2. Graphe équivalent au tableau des tâches
 Voici une représentation des tâches sous forme de graphe :
 
 graph TD
@@ -72,7 +72,7 @@ graph TD
 
 
 
-3. Date de début de l'organisation
+## 3. Date de début de l'organisation
 Pour calculer la date de début, nous devons déterminer la durée totale du projet et soustraire cette durée à la date de début du colloque.
 
 La tâche la plus longue est la sélection des articles et les contributions, soit 8 + 8 = 16 semaines.
@@ -100,7 +100,7 @@ La date de début de l'organisation doit être le 16 juillet 2024 au plus tard.
 
 
 
-4. Marges pour les réunions du comité de programme
+## 4. Marges pour les réunions du comité de programme
 Pour fixer une date sans que cela ne rallonge la préparation, nous devons considérer les marges disponibles.
 
 Première réunion du comité de programme : Cette réunion doit avoir lieu après la sélection de l'hôtel (3 semaines) et après la constitution du comité de programme (3 semaines), soit après 3 semaines. Cette réunion est critique car elle déclenche l'appel à communications (8 semaines). La marge est nulle car elle est sur le chemin critique.
