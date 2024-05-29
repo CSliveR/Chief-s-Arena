@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-29T14:27:08.797Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vz1Suu7eLgyYIx3C8l5B" version="24.4.9" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-29T14:39:46.923Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="svRfPH6hrNWqyddO_dwA" version="24.4.9" type="github">
   <diagram name="Page-1" id="dA3Z1rn0a-1S8RTorf_I">
     <mxGraphModel dx="1050" dy="522" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -146,7 +146,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="b04upVI2eG6CLu0QCWgF-38" value="&lt;div&gt;L&#39;entrée dans la salle d&#39;événement est payante. L&#39;objectif est de trouver le profit optimal en fonction du nombre du cuisiniers et du prix de l&#39;entrée&lt;/div&gt;&lt;div&gt;On note x le nombre de cuisinier&lt;/div&gt;&lt;div&gt;On note y le prix des billets&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;x * y &amp;gt;=&amp;nbsp; prixhang&lt;/div&gt;&lt;div&gt;prixmin&amp;lt;=prix&amp;lt;=prixmax&lt;/div&gt;&lt;div&gt;prixmin ((prixhang - (x * y) ) * 1.2 =0)&lt;br&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;prixmax (prixhang - (x * y) = 6400)&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div&gt;library(boot)&amp;nbsp;&lt;/div&gt;&lt;div&gt;simplex(...) dans R&amp;nbsp;&lt;/div&gt;&lt;div&gt;pour optimiser.&lt;/div&gt;" style="text;strokeColor=none;fillColor=none;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=16;" parent="1" vertex="1">
-          <mxGeometry x="561" y="159" width="507" height="356" as="geometry" />
+          <mxGeometry x="576" y="161" width="507" height="356" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
