@@ -4,10 +4,7 @@
 Chief's Arena
 
 ## Slogan
--  Organiser l'événement gourmand qui vous correspond.
--  Le combat des saveurs commence ici.
--  Organiser le combat des saveurs.
--  Où les saveurs s'affrontent et les gourmands se régalent.
+Organiser votre combat des saveurs !
 
 ## Fonctionnalités
 - Création d'événements
