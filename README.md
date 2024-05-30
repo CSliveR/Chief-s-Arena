@@ -4,7 +4,7 @@
 Chief's Arena
 
 ## Slogan
-Partagez les saveurs !
+Organiser l'événement gourmand qui vous correspond.
 
 ## Fonctionnalités
 - Création d'événements
