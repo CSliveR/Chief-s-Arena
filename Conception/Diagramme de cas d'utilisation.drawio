@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T08:35:23.982Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="NeLCHSdE7Lk8S91HkW8y" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T08:37:32.896Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="_RsEjOz0IWnaQ1zjT1FU" version="24.3.1" type="github">
   <diagram name="Page-1" id="lcPY9blQmOie27JDpAWG">
-    <mxGraphModel dx="584" dy="-303" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="161" dy="-563" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -35,7 +35,7 @@
           <mxGeometry x="1296.5" y="1759" width="138" height="61" as="geometry" />
         </mxCell>
         <mxCell id="oA8tRcBtQYjBjHiJCD7N-18" value="Entrer le classement&lt;div&gt;du concours&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1295.5" y="1900" width="138" height="61" as="geometry" />
+          <mxGeometry x="1293" y="2140" width="138" height="61" as="geometry" />
         </mxCell>
         <mxCell id="oA8tRcBtQYjBjHiJCD7N-21" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Qj8woxL3NfEu9wZDgqOM-2" target="oA8tRcBtQYjBjHiJCD7N-16" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -46,7 +46,7 @@
         <mxCell id="oA8tRcBtQYjBjHiJCD7N-26" value="Gérer la liste&lt;div&gt;des cuisiniers&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1295.5" y="1690" width="141.5" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="oA8tRcBtQYjBjHiJCD7N-27" value="Éditer un concours" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="oA8tRcBtQYjBjHiJCD7N-27" value="Éditer un concours/Evenement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1299" y="1520" width="138" height="61" as="geometry" />
         </mxCell>
         <mxCell id="oA8tRcBtQYjBjHiJCD7N-28" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Qj8woxL3NfEu9wZDgqOM-2" target="oA8tRcBtQYjBjHiJCD7N-27" edge="1">
@@ -174,7 +174,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="S7KfuXJMWfgk3D_kfaCe-1" value="&lt;div&gt;Gérer la nourriture&lt;/div&gt;&lt;div&gt;et ingrédients&lt;/div&gt;&lt;div&gt;nécéssaire&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1293" y="1980" width="138" height="61" as="geometry" />
+          <mxGeometry x="1293" y="1905" width="138" height="61" as="geometry" />
         </mxCell>
         <mxCell id="K4zWYchWQiMa-KVQydIn-1" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="Qj8woxL3NfEu9wZDgqOM-2" target="S7KfuXJMWfgk3D_kfaCe-1" edge="1">
           <mxGeometry width="80" relative="1" as="geometry">
@@ -183,18 +183,18 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nvps7-y8xZjwg1TehmnI-1" value="Ajouter / modifier&lt;div&gt;un lieu&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="2060" width="138" height="61" as="geometry" />
+          <mxGeometry x="1293" y="1980" width="138" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="nvps7-y8xZjwg1TehmnI-2" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qj8woxL3NfEu9wZDgqOM-2">
+        <mxCell id="nvps7-y8xZjwg1TehmnI-2" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qj8woxL3NfEu9wZDgqOM-2" target="nvps7-y8xZjwg1TehmnI-1">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1080" y="1740" as="sourcePoint" />
             <mxPoint x="1293" y="2091" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="nvps7-y8xZjwg1TehmnI-3" value="Ajouter / modifier&lt;div&gt;la catégorie de&lt;/div&gt;&lt;div&gt;nourriture&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1293" y="2130" width="138" height="61" as="geometry" />
+          <mxGeometry x="1293" y="2060" width="138" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="nvps7-y8xZjwg1TehmnI-4" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qj8woxL3NfEu9wZDgqOM-2">
+        <mxCell id="nvps7-y8xZjwg1TehmnI-4" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="Qj8woxL3NfEu9wZDgqOM-2" target="nvps7-y8xZjwg1TehmnI-3">
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1080" y="1730" as="sourcePoint" />
             <mxPoint x="1293" y="2161" as="targetPoint" />
