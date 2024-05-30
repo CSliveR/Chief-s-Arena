@@ -84,6 +84,15 @@ Deux couteaux entrelacés symbolisant un combat de chefs.
 ### Charte graphique
 - Blanc
 - Utilisation de couleurs rappelant les légumes ?
+- jaune, joie de vivre, optimisme, soleil
+- orange, partage
+- rouge, chaleur, energie, excitation, colère, sang
+- violet, créativité
+- bleu, tritesse, froid, technique
+- vert, nature, ecologie, sagesse, harmonie
+- blanc, pureté, calme, dla merde
+- ![Black to Red Color Palette](https://github.com/hugo-brb/Chief-s-Arena/assets/156188643/aaff91e1-5e55-4216-88d0-630991387121)
+
 
 ## Description
 Chief's Arena est une plateforme dynamique dédiée aux amateurs et aux professionnels de la gastronomie. Créez, participez et explorez une variété d'événements culinaires, des concours de cuisine aux dégustations de vin. Avec notre large éventail de fonctionnalités, vous pouvez organiser des événements, inviter des participants, définir des lieux et des dates, et bien plus encore. Rejoignez-nous pour partager les saveurs et vivre des expériences culinaires uniques !
