@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-30T09:07:34.709Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="J5UrviyWlZPubP5lUDxQ" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-30T09:08:33.557Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:126.0) Gecko/20100101 Firefox/126.0" etag="13hTCfZ7q34Ycr-O1GiS" version="24.3.1" type="github">
   <diagram name="Page-1" id="lcPY9blQmOie27JDpAWG">
-    <mxGraphModel dx="-67" dy="-703" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="32" dy="-642" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -13,7 +13,7 @@
         <mxCell id="Qj8woxL3NfEu9wZDgqOM-5" value="Créer un concours" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1299" y="1450" width="138" height="61" as="geometry" />
         </mxCell>
-        <mxCell id="Qj8woxL3NfEu9wZDgqOM-6" value="Visualiser le&amp;nbsp;&lt;div&gt;calendrier des&lt;/div&gt;&lt;div&gt;concours&lt;/div&gt;/Evenement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="Qj8woxL3NfEu9wZDgqOM-6" value="Visualiser le&amp;nbsp;&lt;div&gt;calendrier des&lt;/div&gt;&lt;div&gt;concours&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1297.25" y="1590" width="138" height="61" as="geometry" />
         </mxCell>
         <mxCell id="Qj8woxL3NfEu9wZDgqOM-23" value="Gérer des&lt;div&gt;partenaires /&lt;/div&gt;&lt;div&gt;sponsors&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -71,106 +71,6 @@
           <mxGeometry width="80" relative="1" as="geometry">
             <mxPoint x="1120" y="1700" as="sourcePoint" />
             <mxPoint x="1337" y="1661" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-27" value="Application" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=106;height=40;" parent="1" vertex="1">
-          <mxGeometry x="1884" y="1454" width="486" height="600" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-28" value="Organisateur" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1710" y="1694" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-29" value="Créer un évenement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2067" y="1504" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-31" target="F5NAmbPiGC9ECiOJrxUR-32" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-31" value="Visualiser le&lt;div&gt;calendrier&lt;/div&gt;&lt;div&gt;d&#39;événement&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1981.5" y="1604" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-32" value="Sélectionner un&lt;div&gt;événement&lt;/div&gt;&lt;div&gt;(pour avoir des&lt;/div&gt;&lt;div&gt;précision)&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2145.5" y="1595" width="145" height="79" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-36" target="F5NAmbPiGC9ECiOJrxUR-38" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1965" y="1715" />
-              <mxPoint x="2054" y="1715" />
-              <mxPoint x="2044" y="1714" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-36" target="F5NAmbPiGC9ECiOJrxUR-41" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-36" target="F5NAmbPiGC9ECiOJrxUR-43" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="1970" y="1874" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-36" value="Éditer un événement" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1896" y="1764" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-38" target="F5NAmbPiGC9ECiOJrxUR-39" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-38" value="Ajouter des&lt;div&gt;participants&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2060" y="1684" width="141.5" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-39" value="Leur assigner&lt;div&gt;un rôle&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="1684" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-41" target="F5NAmbPiGC9ECiOJrxUR-42" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-41" value="Ajouter / modifier&lt;div&gt;un lieu&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2063.5" y="1764" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-42" value="Ajouter / modifier&lt;div&gt;la date&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="1764" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-43" value="Ajouter / modifier&lt;div&gt;la catégorie de&lt;/div&gt;&lt;div&gt;nourriture&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2067" y="1844" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-45" target="F5NAmbPiGC9ECiOJrxUR-47" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-45" value="Gestion des&lt;div&gt;partenaires /&lt;/div&gt;&lt;div&gt;sponsors&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="1896" y="1944" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-47" target="F5NAmbPiGC9ECiOJrxUR-48" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-47" value="Ajout / retrait&lt;div&gt;de partenaires&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2067" y="1944" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-48" value="Visualisation des&lt;div&gt;ressources / contraintes&lt;/div&gt;&lt;div&gt;apportés&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="2220" y="1944" width="138" height="61" as="geometry" />
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-49" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-28" target="F5NAmbPiGC9ECiOJrxUR-29" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="2080" y="1784" as="sourcePoint" />
-            <mxPoint x="2160" y="1784" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-50" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-28" target="F5NAmbPiGC9ECiOJrxUR-31" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1770" y="1724" as="sourcePoint" />
-            <mxPoint x="2077" y="1545" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-51" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="F5NAmbPiGC9ECiOJrxUR-36" edge="1" source="F5NAmbPiGC9ECiOJrxUR-28">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1760" y="1714" as="sourcePoint" />
-            <mxPoint x="2087" y="1555" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="F5NAmbPiGC9ECiOJrxUR-52" value="" style="html=1;verticalAlign=bottom;endArrow=block;curved=0;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="F5NAmbPiGC9ECiOJrxUR-28" target="F5NAmbPiGC9ECiOJrxUR-45" edge="1">
-          <mxGeometry width="80" relative="1" as="geometry">
-            <mxPoint x="1790" y="1744" as="sourcePoint" />
-            <mxPoint x="2097" y="1565" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="S7KfuXJMWfgk3D_kfaCe-1" value="&lt;div&gt;Gérer la nourriture&lt;/div&gt;&lt;div&gt;et ingrédients&lt;/div&gt;&lt;div&gt;nécéssaire&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
