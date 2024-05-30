@@ -4,7 +4,9 @@
 Chief's Arena
 
 ## Slogan
-Organiser votre combat des saveurs !
+-  Organiser votre combat des saveurs !
+-  Avec Chief's Arena organisez le combat des saveurs !
+-  Chief's Arena organise le combat des saveurs !
 
 ## Fonctionnalités
 - Création d'événements
