@@ -1,0 +1,102 @@
+---
+title: "Optimisation de fonctions"
+output:
+  html_document:
+    toc: yes
+  word_document:
+    toc: yes
+  pdf_document: default
+always_allow_html: true
+editor_options: 
+  markdown: 
+    wrap: 72
+---
+
+```{r setup, include=FALSE}
+# Installer les packages nécessaires si ce n'est pas déjà fait
+if (!require(lpSolve)) install.packages("lpSolve", dependencies = TRUE)
+if (!require(ggplot2)) install.packages("ggplot2", dependencies = TRUE)
+
+# Charger les packages
+library(lpSolve)
+library(ggplot2)
+
+
+# Définir les coefficients de la fonction objectif
+objective <- c(19, 14)
+
+# Définir la matrice des contraintes
+constraints <- matrix(c(0.5, 0.2,
+                        0.5, 0.6,
+                        0.005, 0.01), 
+                      nrow = 3, byrow = TRUE)
+
+
+
+# Définir le côté droit des contraintes (les quantités disponibles)
+quantite_viande <- 100
+quantite_legumes <- 150
+quantite_epices <- 2
+
+rhs <- c(quantite_viande, quantite_legumes, quantite_epices)
+
+# Définir les directions des inégalités (<=)
+direction <- c("<=", "<=", "<=")
+
+# Résoudre le problème de programmation linéaire
+solution <- lp("max", objective, constraints, direction, rhs)
+
+
+# Afficher la solution
+cat("Solution optimale:\n")
+
+cat("Nombre de plat 1 (x):", solution$solution[1], "\n")
+cat("Nombre de plat 2 (y):", solution$solution[2], "\n")
+cat("Valeur de la fonction objectif:", solution$objval, "\n")
+
+# Fonction pour visualiser les contraintes et la région faisable
+plot_feasible_region <- function() {
+  df <- expand.grid(x = seq(0, 200, length.out = 100), 
+                    y = seq(0, 200, length.out = 100))
+  
+  df$constraint1 <- 0.5 * df$x + 0.2 * df$y
+  df$constraint2 <- 0.5 * df$x + 0.6 * df$y
+  df$constraint3 <- 0.005 * df$x + 0.01 * df$y
+  
+  feasible_region <- df[df$constraint1 <= quantite_viande & 
+                          df$constraint2 <= quantite_legumes & 
+                          df$constraint3 <= quantite_epices, ]
+  
+  # Spécifier l'environnement de rendu pour le graphique (pdf)
+  plot_env <- ggplot2::ggplot(data = feasible_region, aes(x = x, y = y)) +
+    geom_raster(fill = "lightgreen", alpha = 0.5) +
+    geom_abline(intercept = quantite_viande / 0.2, slope = -0.5 / 0.2, color = "red", linetype = "dashed") +
+    geom_abline(intercept = quantite_legumes / 0.6, slope = -0.5 / 0.6, color = "blue", linetype = "dashed") +
+    geom_abline(intercept = quantite_epices / 0.01, slope = -0.005 / 0.01, color = "green", linetype = "dashed") +
+    geom_point(aes(x = solution$solution[1], y = solution$solution[2]), color = "black", size = 3) +
+    labs(title = "Région faisable avec solution optimale",
+         x = "Nombre de plat 1 (x)",
+         y = "Nombre de plat 2 (y)") +
+    theme_minimal()
+
+  # Retourner le graphique
+  return(plot_env)
+}
+
+# Afficher la région faisable
+plot <- plot_feasible_region()
+
+# Sauvegarder le graphique dans une page HTML
+save_html(plot, file = "output.html")
+
+# Ouvrir la page HTML dans une nouvelle fenêtre
+browseURL("output.html")
+
+
+```
+
+
+
+
+
+
