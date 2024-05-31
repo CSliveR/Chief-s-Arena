@@ -13,7 +13,7 @@ Planification de l'organisation d'un colloque scientifique
 | H [Appel à communications] | 8 semaine | K |
 | I [Choix du lieu de banquet] | 2 semaine | E J |
 | J [Fixation de la deuxième réunion du comité de programme] | -------- | K |
-| K [Sélection des articles] | 8 semaine | J, H |
+| K [Sélection des articles] | 8 semaine | L |
 | L [Homogénéisation des articles] | 4 semaine | M |
 | M [Impression des Proceedings] | 6 semaine | N |
 | N [Réception des Proceedings] | 0 semaine | O |
