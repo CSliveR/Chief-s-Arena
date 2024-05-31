@@ -3,20 +3,21 @@ Planification de l'organisation d'un colloque scientifique
 
 | Tâche | Durée | Successeurs |
 | --- | --- | --- |
-| A [Constitution du comité d'organisation] | 1 semaine | B |
+| A [Constitution du comité d'organisation] | 1 semaine | B D |
 | B [Sélection de l'hôtel] | 3 semaine | C G |
-| C [Choix des menus et les repas] | 1 semaine |  I |
-| D  [Choix du lieu de banquet] |--- | ----- |
+| C [Choix des menus et les repas] | 1 semaine |  E |
+| D  [Choix du lieu de banquet] | 2 semaine | E J |
 | E [Détermination du prix payé par les conférenciers] | 0 semaine | H |
 | F [Constitution du comité de programme] | 3 semaine | G |
 | G [Première réunion du comité de programme] | 0 semaine | H |
-| H [Appel à communications] | 8 semaine | K |
-| I [Sélection des articles] | 2 semaine | E J |
-| J [Fixation de la deuxième réunion du comité de programme] | -------- | K |
+| H [Appel à communications] | 8 semaine | I |
+| I [Sélection des articles] | 2 semaine | K |
+| J [Deuxième réunion du comité de programme] | 0 semaine | O |
 | K [Homogénéisation des articles] | 8 semaine | L |
 | L [Impression des Proceedings] | 4 semaine | M |
 | M [Réception des Proceedings] | 6 semaine | N |
-| N [Attente avant début de la colloque] | 1 semaine | O |
+| N [Attente avant début de la colloque] | 1 semaine | FIN |
+| O [Attente MINIMAL avant début de la colloque après la reunion] | 3 semaine | FIN |
 
 
 
