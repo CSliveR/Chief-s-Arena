@@ -17,7 +17,7 @@ Planification de l'organisation d'un colloque scientifique
 | L [Impression des Proceedings] | 4 semaine | M |
 | M [Réception des Proceedings] | 6 semaine | N |
 | N [Attente avant début de la colloque] | 1 semaine | FIN |
-| O [Attente MINIMAL avant début de la colloque après la reunion] | 3 semaine | FIN |
+| O [Attente minimal avant début de la colloque après la reunion] | 3 semaine | FIN |
 
 
 
@@ -36,15 +36,25 @@ La tâche la plus longue est la sélection des articles et les contributions, so
 Le chemin critique le plus long (celui déterminant la durée totale du projet) inclut :
 
 Constitution du comité d'organisation : 1 semaine
+
 Sélection de l'hôtel : 3 semaines
+
 Choix des menus et les repas : 1
+
 Première réunion du comité de programme : 0 semaine (après 5 semaines)
+
 Appel à communications : 8 semaines (après 5 semaines)
+
 Sélection des articles : 8 semaines (après 13 semaines)
+
 Homogénéisation des articles : 4 semaines (après 21 semaines)
+
 Impression des Proceedings : 6 semaines (après 25 semaines)
+
 Réception des Proceedings : la 31 semaine
+
 Attente avant début de la colloque : 1 semaine
+
 Total: 32 semaines.
 
 Pour un début du colloque le 10 mars 2025, nous devons reculer de 32 semaines.
