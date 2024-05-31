@@ -5,13 +5,13 @@ Planification de l'organisation d'un colloque scientifique
 | --- | --- | --- |
 | A [Constitution du comité d'organisation] | 1 semaine | B |
 | B [Sélection de l'hôtel] | 3 semaine | C G |
-| C [Choix des menus et les repas] | 1 semaine | E I |
+| C [Choix des menus et les repas] | 1 semaine |  I |
 | D [Fixation de la première réunion du comité de programme] |--- | ----- |
 | E [Détermination du prix payé par les conférenciers] | 0 semaine | H |
 | F [Constitution du comité de programme] | 3 semaine | G |
 | G [Première réunion du comité de programme] | 0 semaine | H |
 | H [Appel à communications] | 8 semaine | K |
-| I [Choix du lieu de banquet] | 2 semaine | J |
+| I [Choix du lieu de banquet] | 2 semaine | E J |
 | J [Fixation de la deuxième réunion du comité de programme] | -------- | K |
 | K [Sélection des articles] | 8 semaine | J, H |
 | L [Homogénéisation des articles] | 4 semaine | M |
