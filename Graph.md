@@ -11,7 +11,7 @@ Planification de l'organisation d'un colloque scientifique
 | F [Constitution du comité de programme] | 3 semaine | G |
 | G [Première réunion du comité de programme] | 0 semaine | H |
 | H [Appel à communications] | 8 semaine | K |
-| I [Choix du lieu de banquet] | 2 semaine | J E |
+| I [Choix du lieu de banquet] | 2 semaine | J |
 | J [Fixation de la deuxième réunion du comité de programme] | -------- | K |
 | K [Sélection des articles] | 8 semaine | J, H |
 | L [Homogénéisation des articles] | 4 semaine | M |
