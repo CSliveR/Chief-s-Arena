@@ -70,9 +70,11 @@ La date de début de l'organisation doit être le 23 juillet 2024 au plus tard.
 ## 4. Marges pour les réunions du comité de programme
 Pour fixer une date sans que cela ne rallonge la préparation, nous devons considérer les marges disponibles.
 
-Première réunion du comité de programme : Cette réunion doit avoir lieu après la sélection de l'hôtel (3 semaines) et après la constitution du comité de programme (3 semaines), soit après 4 semaines. Cette réunion est critique car elle déclenche l'appel à communications (8 semaines). La marge est nulle car elle est sur le chemin critique.
+### Première réunion du comité de programme : 
+Cette réunion doit avoir lieu après la sélection de l'hôtel (3 semaines) et après la constitution du comité de programme (3 semaines), soit après 4 semaines. Cette réunion est critique car elle déclenche l'appel à communications (8 semaines). La marge est nulle car elle est sur le chemin critique.
 
-Deuxième réunion du comité de programme : Doit avoir lieu après la sélection des articles (8 semaines) et le choix du banquet (2 semaines), et au moins 3 semaines avant le colloque.
+### Deuxième réunion du comité de programme : 
+Doit avoir lieu après la sélection des articles (8 semaines) et le choix du banquet (2 semaines), et au moins 3 semaines avant le colloque.
 
 Elle doit donc avoir lieu après 25 semaines et avant la semaine 29.
 Nous avons une marge de 4 semaines pour fixer la date de la deuxième réunion.
