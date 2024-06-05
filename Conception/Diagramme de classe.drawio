@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T06:50:12.836Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="hOJI3MLl2dRigiQ3u8Uh" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T06:52:29.592Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="5EoLt81Dg1kYnEjXyWvk" version="24.4.13" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="3216" dy="3092" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3472" dy="3208" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -226,7 +226,7 @@
           <mxGeometry x="-860" y="-1860" width="210" height="30" as="geometry" />
         </mxCell>
         <mxCell id="ixzuctavl4RU0_iM92sU-2" value="&lt;div&gt;faire une classe associative pour l&#39;attribut notes&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
-          <mxGeometry x="-443" y="-1290" width="120" height="60" as="geometry" />
+          <mxGeometry x="-830" y="-1410" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="ixzuctavl4RU0_iM92sU-3" value="La list de participant doit apparaitre en dehors de la classe" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="-920" y="-1890" width="350" height="30" as="geometry" />
@@ -269,11 +269,6 @@
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="314" y="-1860" as="sourcePoint" />
             <mxPoint x="210" y="-1451" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="9-6JezJEc2OB_kcxn5_f-38" value="participant" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9-6JezJEc2OB_kcxn5_f-37">
-          <mxGeometry x="-0.7884" relative="1" as="geometry">
-            <mxPoint x="-83" y="302" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="9-6JezJEc2OB_kcxn5_f-40" value="Jurés" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="9-6JezJEc2OB_kcxn5_f-37">
