@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-05T07:22:24.065Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="vk3eNSi0AeOPez7DZy6L" version="24.4.13" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-05T07:27:11.401Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="8h5rIoUCuwry-26J7NB0" version="24.4.13" type="github">
   <diagram name="Page-1" id="CkdtYTVWs0D_aoovY7cm">
     <mxGraphModel dx="2668" dy="1970" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -82,7 +82,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="vHlDbWa8EEW028449BbG-3" value="&lt;h1 style=&quot;margin-top: 0px;&quot;&gt;Information&lt;/h1&gt;&lt;p&gt;&lt;font style=&quot;font-size: 15px;&quot;&gt;Pour créer un événement, tous les champs ne sont pas obligatoires. Ce diagrammes de classes appartient au cas où aucun champ facultatif a été saisi par l&#39;utilisateur.&lt;/font&gt;&lt;/p&gt;" style="text;html=1;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="100" y="-450" width="280" height="150" as="geometry" />
+          <mxGeometry x="110" y="-480" width="280" height="150" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
