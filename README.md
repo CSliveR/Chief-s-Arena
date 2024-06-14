@@ -7,6 +7,7 @@ Chief's Arena
 -  Organiser votre combat des saveurs !
 -  Avec Chief's Arena organisez le combat des saveurs !
 -  Chief's Arena organise le combat des saveurs !
+- Flavours are in your hands !
 
 ## Fonctionnalités
 - Création d'événements
