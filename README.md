@@ -95,7 +95,11 @@ Deux couteaux entrelacés symbolisant un combat de chefs.
 - ![Black to Red Color Palette](https://github.com/hugo-brb/Chief-s-Arena/assets/156188643/aaff91e1-5e55-4216-88d0-630991387121)
 
 
-  ### Leans Canva présentation intermédiaire
+
+
+
+
+   ### Leans Canva présentation intermédiaire
   
 **Introduction :**
 Bonjour à tous, aujourd'hui je vais vous présenter le Lean Canvas de Chief's Arena, une plateforme innovante dédiée à la création et gestion d'événements culinaires.
@@ -154,7 +158,6 @@ Faciliter la découverte de nouveaux talents culinaires et promouvoir la gastron
 Chief's Arena se positionne comme la solution de référence pour l'organisation et la gestion d'événements culinaires, en offrant des outils spécialisés et une interface intuitive, répondant ainsi aux besoins spécifiques de ses utilisateurs. Merci de votre attention.
 
 ---
-![image](https://github.com/hugo-brb/Chief-s-Arena/assets/103254375/73dd39a8-a0e4-4d67-9668-0ebb394590d9)
 
 
 
