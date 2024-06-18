@@ -95,5 +95,68 @@ Deux couteaux entrelacés symbolisant un combat de chefs.
 - ![Black to Red Color Palette](https://github.com/hugo-brb/Chief-s-Arena/assets/156188643/aaff91e1-5e55-4216-88d0-630991387121)
 
 
+  ### Leans Canva présentation intermédiaire
+  
+**Introduction :**
+Bonjour à tous, aujourd'hui je vais vous présenter le Lean Canvas de Chief's Arena, une plateforme innovante dédiée à la création et gestion d'événements culinaires.
+
+**1. Segments de clientèle, Premiers utilisateurs :**
+- Organisateurs d'événements culinaires.
+- Chefs professionnels et amateurs.
+- Passionnés de cuisine et de gastronomie.
+
+-Influenceurs culinaires cherchant à organiser des événements avec leurs abonnés.
+1. -Chefs participants à des concours culinaires locaux voir nationaux.
+
+**2. Problème, Alternatives existante :**
+- Difficulté à organiser des événements culinaires complexes.
+- Manque de plateformes spécialisées pour divers types de concours gastronomiques.
+- Difficulté à calculer les prix d'entrée en fonction du nombre de participants.
+
+2. -Plateformes génériques d'événements (Eventbrite, Meetup).
+3. -Réseaux sociaux pour la promotion (Facebook Events).
+
+
+**3. Proposition de valeur unique :**
+Chief's Arena offre une plateforme intégrée et centralisée pour organiser et gérer facilement des événements culinaires variés, avec des fonctionnalités complètes et intuitives.
+
+**4. Solution :**
+- Tableau de bord de gestion.
+- Fonctionnalités pour ajouter participants, lieux, dates, et catégories.
+- Système mathématique de gestion du nombre de participants par rapport aux prix.
+
+**5. Canaux :**
+- Marketing digital (SEO, réseaux sociaux).
+- Partenariats avec écoles de cuisine et chefs.
+
+**6. Sources de revenus :**
+- Abonnements mensuels (50€ à 400€).
+- Services premium (streaming des événements, outils d'analyse avancés).
+
+**7. Structure des coûts :**
+- Développement et maintenance de la plateforme.
+- Marketing et publicité.
+- Support client et gestion de la communauté.
+
+**8. Indicateurs clés :**
+- Taux de conversion des abonnements.
+- Nombre d'événements créés et gérés.
+
+**9. Avantage privilégié :**
+- Fonctionnalités de personnalisation avancées pour les événements.
+- Support client dédié pour les organisateurs.
+- Outils mathématiques fonctionnels et convaincants.
+
+**10. Concept de grande valeur :**
+Faciliter la découverte de nouveaux talents culinaires et promouvoir la gastronomie.
+
+**Conclusion :**
+Chief's Arena se positionne comme la solution de référence pour l'organisation et la gestion d'événements culinaires, en offrant des outils spécialisés et une interface intuitive, répondant ainsi aux besoins spécifiques de ses utilisateurs. Merci de votre attention.
+
+---
+![image](https://github.com/hugo-brb/Chief-s-Arena/assets/103254375/73dd39a8-a0e4-4d67-9668-0ebb394590d9)
+
+
+
 ## Description
 Chief's Arena est une plateforme dynamique dédiée aux amateurs et aux professionnels de la gastronomie. Créez, participez et explorez une variété d'événements culinaires, des concours de cuisine aux dégustations de vin. Avec notre large éventail de fonctionnalités, vous pouvez organiser des événements, inviter des participants, définir des lieux et des dates, et bien plus encore. Rejoignez-nous pour partager les saveurs et vivre des expériences culinaires uniques !
