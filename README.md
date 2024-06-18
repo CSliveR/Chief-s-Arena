@@ -99,7 +99,7 @@ Deux couteaux entrelacés symbolisant un combat de chefs.
 
 
 
-   ### Leans Canva présentation intermédiaire
+   ## Leans Canva présentation intermédiaire
   
 **Introduction :**
 Bonjour à tous, aujourd'hui je vais vous présenter le Lean Canvas de Chief's Arena, une plateforme innovante dédiée à la création et gestion d'événements culinaires.
