@@ -110,15 +110,15 @@ Bonjour à tous, aujourd'hui je vais vous présenter le Lean Canvas de Chief's A
 - Passionnés de cuisine et de gastronomie.
 
 -Influenceurs culinaires cherchant à organiser des événements avec leurs abonnés.
-1. -Chefs participants à des concours culinaires locaux voir nationaux.
+-Chefs participants à des concours culinaires locaux voir nationaux.
 
 **2. Problème, Alternatives existante :**
 - Difficulté à organiser des événements culinaires complexes.
 - Manque de plateformes spécialisées pour divers types de concours gastronomiques.
 - Difficulté à calculer les prix d'entrée en fonction du nombre de participants.
 
-2. -Plateformes génériques d'événements (Eventbrite, Meetup).
-3. -Réseaux sociaux pour la promotion (Facebook Events).
+-Plateformes génériques d'événements (Eventbrite, Meetup).
+-Réseaux sociaux pour la promotion (Facebook Events).
 
 
 **3. Proposition de valeur unique :**
