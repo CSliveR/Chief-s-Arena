@@ -118,6 +118,7 @@ Bonjour à tous, aujourd'hui je vais vous présenter le Lean Canvas de Chief's A
 - Difficulté à calculer les prix d'entrée en fonction du nombre de participants.
 
 -Plateformes génériques d'événements (Eventbrite, Meetup).
+
 -Réseaux sociaux pour la promotion (Facebook Events).
 
 
