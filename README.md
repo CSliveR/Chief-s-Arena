@@ -101,62 +101,13 @@ Deux couteaux entrelacés symbolisant un combat de chefs.
 
    ## Leans Canva présentation intermédiaire
   
-**Introduction :**
-Bonjour à tous, aujourd'hui je vais vous présenter le Lean Canvas de Chief's Arena, une plateforme innovante dédiée à la création et gestion d'événements culinaires.
-
-**1. Segments de clientèle, Premiers utilisateurs :**
-- Organisateurs d'événements culinaires.
-- Chefs professionnels et amateurs.
-- Passionnés de cuisine et de gastronomie.
-
--Influenceurs culinaires cherchant à organiser des événements avec leurs abonnés.
--Chefs participants à des concours culinaires locaux voir nationaux.
-
-**2. Problème, Alternatives existante :**
-- Difficulté à organiser des événements culinaires complexes.
-- Manque de plateformes spécialisées pour divers types de concours gastronomiques.
-- Difficulté à calculer les prix d'entrée en fonction du nombre de participants.
-
--Plateformes génériques d'événements (Eventbrite, Meetup).
-
--Réseaux sociaux pour la promotion (Facebook Events).
+INTRO:
+Bonjour, nous l'équipe de Chief's Arena
 
 
-**3. Proposition de valeur unique :**
-Chief's Arena offre une plateforme intégrée et centralisée pour organiser et gérer facilement des événements culinaires variés, avec des fonctionnalités complètes et intuitives.
+Problème: 
+Imaginez vous être une associations ou même une personne tiers qui souhaiterais organiser un concours  de cuisine en tout genre. C'est la que vous rencontrez votre premier problème, car pour organisez un évènements de cuisine de tout ampleur il faut une multitude d'outils: un outil de calcul des billets, un outil pour calculer le meilleur prix des aliments, outil pour calculer le coût total de votre évènements. Nous vous proposons une solution qui vous permettras de retrouver l'entièreté des outils utile. En effet Chief's Arena permet d'Intégrer et centraliser pour organiser et gérer facilement des événements culinaires et des concours de cuisine variés, avec des fonctionnalités complètes et intuitives. La clientèle visé vas des organisateurs d'évènements à tout un chacun qui souhaiterais se confronter pour montrer ces talents en cuisine et qui voudrait apprendre en plus de nouvelle cuisine ou manières de cuisiner. Pour ce qui est du contact le marketing digital sera notre premier moyen de diffusé notre application donc tout ce qui est SEO ou réseaux sociaux , ensuite le partenariats avec des écoles de cuisines est une bonne initiative car c'est dans un de ces endroits que les jeunes cuisinier souhaiterais ce confronter a d'autres cuisinier. Les  indicateurs clefs qui nous permettrons de voir la bonne avancer de notre application seront le taux de conversion des abonnements et le nombre d'évènements créés et gérés. C'est deux principal stats nous donnerons une idée du succès de notre application. Les coûts principaux de notre application seront le développement et la maintenance de notre plateforme, le marketing et la publicité donc payer les partenariats et les publicité diffusés. Les sources de revenus quand a elle seront basés sur les revenus récurrent donc les abonnement mensuels et un services premium qui permettrais un streaming des évènements et des outils d'analyse plus avancés
 
-**4. Solution :**
-- Tableau de bord de gestion.
-- Fonctionnalités pour ajouter participants, lieux, dates, et catégories.
-- Système mathématique de gestion du nombre de participants par rapport aux prix.
-
-**5. Canaux :**
-- Marketing digital (SEO, réseaux sociaux).
-- Partenariats avec écoles de cuisine et chefs.
-
-**6. Sources de revenus :**
-- Abonnements mensuels (50€ à 400€).
-- Services premium (streaming des événements, outils d'analyse avancés).
-
-**7. Structure des coûts :**
-- Développement et maintenance de la plateforme.
-- Marketing et publicité.
-- Support client et gestion de la communauté.
-
-**8. Indicateurs clés :**
-- Taux de conversion des abonnements.
-- Nombre d'événements créés et gérés.
-
-**9. Avantage privilégié :**
-- Fonctionnalités de personnalisation avancées pour les événements.
-- Support client dédié pour les organisateurs.
-- Outils mathématiques fonctionnels et convaincants.
-
-**10. Concept de grande valeur :**
-Faciliter la découverte de nouveaux talents culinaires et promouvoir la gastronomie.
-
-**Conclusion :**
-Chief's Arena se positionne comme la solution de référence pour l'organisation et la gestion d'événements culinaires, en offrant des outils spécialisés et une interface intuitive, répondant ainsi aux besoins spécifiques de ses utilisateurs. Merci de votre attention.
 
 ---
 
