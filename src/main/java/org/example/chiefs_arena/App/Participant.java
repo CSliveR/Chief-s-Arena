@@ -23,4 +23,5 @@ public class Participant extends Personne {
         return jury.getNotes();
     }
 
+
 }

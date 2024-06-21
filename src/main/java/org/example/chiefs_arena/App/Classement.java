@@ -53,10 +53,19 @@ public class Classement {
      * @return La liste des participants sur le podium.
      */
     public List<Participant> getPodium() {
-        for(int i=0; i < 3; i++){
-            podium.add(participants.get(i));
-        }
         return podium;
+    }
+
+    /**
+     * Définit la liste des participants sur le podium
+     * @param podium la liste des 3 premiers participants du classement
+     */
+
+    public void setPodium(List<Participant> podium) {
+        /*for(int i=0; i < 3; i++){
+            podium.add(participants.get(i));
+        }*/
+        this.podium = podium;
     }
 
     /**
@@ -100,4 +109,6 @@ public class Classement {
             }
         }
     }
+
+
 }

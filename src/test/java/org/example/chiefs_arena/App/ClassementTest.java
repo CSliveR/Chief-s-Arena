@@ -3,6 +3,7 @@ package org.example.chiefs_arena.App;
 import org.junit.jupiter.api.Test;
 
 import java.util.ArrayList;
+import java.util.Arrays;
 import java.util.List;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
@@ -46,4 +47,5 @@ public class ClassementTest {
         classement.setPodium(podium);
         assertEquals(podium, classement.getPodium());
     }
+
 }
